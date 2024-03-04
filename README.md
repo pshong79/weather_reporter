@@ -21,3 +21,4 @@ I am hoping, as I get more time, to clean this up a bit and add a few more featu
 - Specifying which data to get
 - Being able to run at any time and get the data for the correct time range
 - Email the data
+- Add tests
