@@ -17,8 +17,9 @@ I thought this would be a good opportunity to explore playing with APIs in Ruby.
 
 I am hoping, as I get more time, to clean this up a bit and add a few more features. Some features include:
 
+- Add tests
+- Refactor
+- Email the data
 - Specifying the time range to get the data for
 - Specifying which data to get
 - Being able to run at any time and get the data for the correct time range
-- Email the data
-- Add tests
